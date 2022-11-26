@@ -13,6 +13,9 @@
             android:name=".Page"
             android:exported="false" />
         <activity
+            android:name=".Quiz"
+            android:exported="false" />
+        <activity
             android:name=".Lessons"
             android:exported="false" />
         <activity
